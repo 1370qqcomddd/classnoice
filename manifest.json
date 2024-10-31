@@ -2,3 +2,19 @@
     "ServerKind": 0,
     "OrganizationName": "ISU"
 }
+{
+    "ServerKind": 0,
+    "OrganizationName": "Hello",
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/1370qqcomddd/classnoice/refs/heads/main/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/1370qqcomddd/classnoice/master/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/1370qqcomddd/classnoice/master/subjects.json",
+        "Version": 1
+    }
+}
