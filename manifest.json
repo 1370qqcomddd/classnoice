@@ -13,4 +13,8 @@
         "Value": "https://raw.githubusercontent.com/1370qqcomddd/classnoice/master/subjects.json",
         "Version": 1
     }
+    "PolicySource": {
+        "Value": "https://example.com/policy.json",
+        "Version": 2
+    },
 }
